@@ -16,10 +16,11 @@ body {
 .inputBox {
     position: relative;
     width: 420px;
+    margin: 0 18px;
 }
 
 .inputBox h2 {
-    font-size: 24px;
+    font-size: 22px;
     display: flex;
     justify-content: center;
     align-items: center;
